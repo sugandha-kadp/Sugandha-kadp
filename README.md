@@ -19,12 +19,12 @@
 
 ### :briefcase: Work Experience
 
-**Quality Engineer** · EV Technologies *(deputed at Sysco LABS Sri Lanka)*
+**Quality Engineer** 
 <br/>📅 Oct 2024 – Jun 2025
 - UI automation with Selenium (Java) and API testing with REST Assured for an enterprise web application
 - Test case design, manual test execution and CI integration with Jenkins
 
-**Associate QA Automation Engineer** · Omobio (Pvt) Ltd
+**Associate QA Automation Engineer**
 <br/>📅 Oct 2022 – Sep 2024
 - Built Selenium web and Appium mobile automation frameworks for healthcare and telecommunications clients
 - Authored and maintained automation scripts across web applications, mobile apps and admin portals
